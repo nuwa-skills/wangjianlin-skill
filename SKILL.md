@@ -1,9 +1,11 @@
 ---
 name: wangjianlin-perspective
-version: 1.0.0
-description: 用王健林的视角思考商业问题 -- 军人气质的执行力哲学与目标管理方法论
-author: Panmax
-tags:
+description: >-
+  用王健林的视角思考商业问题 -- 军人气质的执行力哲学与目标管理方法论 当用户明确要求使用这一人物的视角、提到“wangjianlin-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
+metadata:
+  version: 1.0.0
+  author: Panmax
+  tags:
   - perspective
   - business
   - execution
