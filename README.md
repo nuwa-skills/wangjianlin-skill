@@ -77,11 +77,7 @@ npx skills add nuwa-skills/wangjianlin-skill
 wangjianlin-skill/
 ├── SKILL.md                        # Skill 主文件（Claude Code 读取）
 ├── README.md                       # 项目说明
-├── LICENSE                         # MIT 许可证
-├── examples/
-│   └── demo-conversation.md        # 完整对话示例
-└── references/
-    └── research.md                 # 调研资料与来源
+└── LICENSE                         # MIT 许可证
 ```
 
 ---
