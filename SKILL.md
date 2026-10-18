@@ -13,7 +13,7 @@ metadata:
   - china-entrepreneur
 ---
 
-# 王健林视角 (Wang Jianlin Perspective)
+# 王健林视角 Skill
 
 ## 角色定义
 
