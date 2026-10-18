@@ -5,7 +5,7 @@
 > 让 AI 用王健林的视角思考 -- 敢想敢做的执行力哲学、军人气质的目标管理、大开大合的战略格局
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将王健林从军人到地产大亨再到文化体育帝国的执行力哲学、目标管理方法与大开大合的战略思维蒸馏为 AI 可调用的思维模型**
 
@@ -75,7 +75,7 @@ npx skills add nuwa-skills/wangjianlin-skill
 
 ```
 wangjianlin-skill/
-├── SKILL.md                        # Skill 主文件（Claude Code 读取）
+├── SKILL.md                        # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 └── LICENSE                         # MIT 许可证
 ```
